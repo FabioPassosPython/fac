@@ -13,3 +13,6 @@ for i , c in enumerate(texto1):
         print(f"A vogal {c} foi encontrada na posição {i}.")
     else:
         continue
+
+texto2 = "Este é um teste do repositório."
+print(texto2)
